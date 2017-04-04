@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hermit.ga/"/>
-  <updated>2017-04-04T10:00:37.821Z</updated>
+  <updated>2017-04-04T15:40:17.924Z</updated>
   <id>http://hermit.ga/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://hermit.ga/2017/04/04/Image-testing/"/>
     <id>http://hermit.ga/2017/04/04/Image-testing/</id>
     <published>2017-04-04T09:44:01.000Z</published>
-    <updated>2017-04-04T10:00:37.821Z</updated>
+    <updated>2017-04-04T15:40:17.924Z</updated>
     
     <content type="html"><![CDATA[<p>The below is my screen scratch of Panasonic CF-S10.<br>Running lynx to view my Hexo blog:<br><img src="/2017/04/04/Image-testing/Lynxing.png" alt="Lynxing my blog"></p>
 ]]></content>
@@ -41,7 +41,7 @@
     <link href="http://hermit.ga/2017/04/04/Test-synchronization-via-github/"/>
     <id>http://hermit.ga/2017/04/04/Test-synchronization-via-github/</id>
     <published>2017-04-04T05:07:21.000Z</published>
-    <updated>2017-04-04T09:25:18.931Z</updated>
+    <updated>2017-04-04T15:40:17.924Z</updated>
     
     <content type="html"><![CDATA[<p>Test synchronization with github.</p>
 <p>A, New a repo in github;<br>B, Locally pull the repo;<br>C, Copy the files to be synchronized;<br>D, Git add . &amp;&amp; Git commit &amp;&amp; Git push.</p>
@@ -68,7 +68,7 @@
     <link href="http://hermit.ga/2017/04/03/Hello-World/"/>
     <id>http://hermit.ga/2017/04/03/Hello-World/</id>
     <published>2017-04-03T04:23:14.000Z</published>
-    <updated>2017-04-04T09:20:22.911Z</updated>
+    <updated>2017-04-04T15:40:17.924Z</updated>
     
     <content type="html"><![CDATA[<p>Hello,World!</p>
 <p>This is my first Hexo blog,which is hosted on my vps,driven by the hexo blog frame and auto updated with git-hooks.</p>
