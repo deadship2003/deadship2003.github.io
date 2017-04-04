@@ -980,7 +980,7 @@ pre .javascript .function {
   position: relative;
   display: inline-block;
   padding: 0 40px;
-  color: #fff;
+  color: #ff2a2a;
   background: #222;
   border-bottom: none;
 }
@@ -1004,7 +1004,7 @@ pre .javascript .function {
 .site-subtitle {
   margin-top: 10px;
   font-size: 13px;
-  color: #999;
+  color: #262a30;
 }
 .use-motion .brand {
   opacity: 0;
@@ -1691,7 +1691,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #fff;
+  background: #4eff6e;
 }
 .links-of-blogroll {
   font-size: 13px;
