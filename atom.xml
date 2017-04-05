@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hermit.ga/"/>
-  <updated>2017-04-04T15:40:17.924Z</updated>
+  <updated>2017-04-05T14:30:27.868Z</updated>
   <id>http://hermit.ga/</id>
   
   <author>
@@ -16,11 +16,33 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Mutt</title>
+    <link href="http://hermit.ga/2017/04/05/Mutt/"/>
+    <id>http://hermit.ga/2017/04/05/Mutt/</id>
+    <published>2017-04-05T13:04:17.000Z</published>
+    <updated>2017-04-05T14:30:27.868Z</updated>
+    
+    <content type="html"><![CDATA[<p>Mutt,a famous email tool.</p>
+<p><img src="/2017/04/05/Mutt/Mutt.png" alt="Mutt&amp;Gmail"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Mutt,a famous email tool.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/2017/04/05/Mutt/Mutt.png&quot; alt=&quot;Mutt&amp;amp;Gmail&quot;&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Image testing</title>
     <link href="http://hermit.ga/2017/04/04/Image-testing/"/>
     <id>http://hermit.ga/2017/04/04/Image-testing/</id>
     <published>2017-04-04T09:44:01.000Z</published>
-    <updated>2017-04-04T15:40:17.924Z</updated>
+    <updated>2017-04-05T14:30:27.868Z</updated>
     
     <content type="html"><![CDATA[<p>The below is my screen scratch of Panasonic CF-S10.<br>Running lynx to view my Hexo blog:<br><img src="/2017/04/04/Image-testing/Lynxing.png" alt="Lynxing my blog"></p>
 ]]></content>
@@ -41,7 +63,7 @@
     <link href="http://hermit.ga/2017/04/04/Test-synchronization-via-github/"/>
     <id>http://hermit.ga/2017/04/04/Test-synchronization-via-github/</id>
     <published>2017-04-04T05:07:21.000Z</published>
-    <updated>2017-04-04T15:40:17.924Z</updated>
+    <updated>2017-04-05T14:30:27.868Z</updated>
     
     <content type="html"><![CDATA[<p>Test synchronization with github.</p>
 <p>A, New a repo in github;<br>B, Locally pull the repo;<br>C, Copy the files to be synchronized;<br>D, Git add . &amp;&amp; Git commit &amp;&amp; Git push.</p>
@@ -68,7 +90,7 @@
     <link href="http://hermit.ga/2017/04/03/Hello-World/"/>
     <id>http://hermit.ga/2017/04/03/Hello-World/</id>
     <published>2017-04-03T04:23:14.000Z</published>
-    <updated>2017-04-04T15:40:17.924Z</updated>
+    <updated>2017-04-05T14:30:27.868Z</updated>
     
     <content type="html"><![CDATA[<p>Hello,World!</p>
 <p>This is my first Hexo blog,which is hosted on my vps,driven by the hexo blog frame and auto updated with git-hooks.</p>
